@@ -1,5 +1,5 @@
 # MyPortal
-![FERI](https://feri.um.si/virtualni-sprehod/socialThumbnail.jpg)
+![FERI](Naloga3-again/Untitled.jpg)
 
 ---
 
