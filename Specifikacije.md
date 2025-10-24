@@ -1,5 +1,5 @@
 # MyPortal
-![FERI](Naloga3-again/Untitled.jpg)
+![FERI](https://github.com/JustCloudy/Naloga3-again/blob/7c4418a9f146a29df885e360d84ab8251a25b72e/Untitled.jpg)
 
 ---
 
