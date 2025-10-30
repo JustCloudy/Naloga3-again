@@ -10,6 +10,7 @@
 | Janez Novak | Programmer |
 | Mateo Kovač | project leader |
 | Rok Zupančič | tester |
+| Ognjen Janković | tester |
 ---
 
 ```html
